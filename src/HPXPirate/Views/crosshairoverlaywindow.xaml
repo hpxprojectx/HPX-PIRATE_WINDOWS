@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window x:Class="HPXPirate.Views.CrosshairOverlayWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="HPX Crosshair Overlay" WindowStyle="None" AllowsTransparency="True" Background="#00FFFFFF" Topmost="True" ShowInTaskbar="False" ShowActivated="False" ResizeMode="NoResize" WindowStartupLocation="Manual" IsHitTestVisible="False" Focusable="False" xmlns:views="clr-namespace:HPXPirate.Views;assembly=HPXPirate">
+  <Canvas Name="Root" Background="#00FFFFFF" />
+</Window>
